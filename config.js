@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "Demo",
     introTitle: 'Tên người yêu bạn',
-    introDesc: `Câu hỏi dành cho Xuân Thu,
+    introDesc: `Câu hỏi dành cho Xuân Thu`,
     btnIntro: 'Hahah',
     title: 'Dành 1 đêm để tạo code này',
     desc: 'Chúc bạn buổi sáng vui vẻ ',
