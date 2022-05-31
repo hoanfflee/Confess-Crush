@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Dear Xuan Thu',
     introDesc: `Chúc bạn buổi trưa mát rười rượi`,
     btnIntro: 'Mã code vui vẻ',
-    title: 'Dành 1 đêm để tạo code này',
+    title: 'Dành 1 đêm để tạo code này nên mình có 1 câu hỏi rất quan trọng đó là',
     desc: 'Bạn có ham ăn, ham ngủ không ',
     btnYes: 'Như lợn',
     btnNo: 'Không hề',
