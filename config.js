@@ -13,5 +13,6 @@ const CONFIG = {
     mess: 'T biết mà ',
     messDesc: 'Hẹn bạn vào 1 ngày ở Hà Nội.',
     btnAccept: 'Quá Ok',
-    messLink: 'https://www.facebook.com/hoanle2641/' 
+    messLink: 'https://www.facebook.com/hoanle2641/'  //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
+
